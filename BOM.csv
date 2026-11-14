@@ -1,0 +1,49 @@
+Part,Type,Quantity,Unit price (CNY),Line total (CNY),Link,Vendor,Funding,Notes
+2040 profile 400mm,part,1,,,,TaoBao,Grant,Frame
+2020 profile 400mm,Part,2,10,20,,TaoBao,Grant,Frame - 1 base sides + 1 centre mount for Y rail (MGN9 400)
+2020 profile 350mm,Part,2,9,18,,TaoBao,Grant,Frame - base ends; could be 400mm depending on price
+2020 profile 300mm,Part,1,6.9,8,,TaoBao,Grant,X/XC beam (carries MGN9 300 rail)
+2040 profile 350mm,Part,1,12,16,,TaoBao,Grant,Z column
+2020 corner bracket,Part,24,0.8,19.2,,TaoBao,Grant,Base frame + Z column + braces
+2020 T-nut M5,Part,100,0.1,10,,TaoBao,Grant,More profiles = more nuts
+MGN9 rail 300mm,Part,1,,,,TaoBao,Grant,X axis
+MGN9 rail 400mm,Part,1,,,,TaoBao,Grant,Y axis (bed travel)
+MGN9C block,Part,4,,,,TaoBao,Grant,2 for X + 2 for Y
+MGN12 rail 250mm,Part,2,,,,TaoBao,Grant,Z axis
+MGN12H block,Part,2,,,,TaoBao,Grant,Z axis; 1 per rail
+T8 lead screw 300-320mm,Part,1,,,,TaoBao,Grant,Z axis
+T8x8 lead screw nut,Part,1,0,0,,TaoBao,Already own,Z axis
+Flexible coupler 5x8mm,Part,1,0,0,,TaoBao,Already own,Z motor to lead screw
+608ZZ bearing,Part,2,,,,TaoBao,Grant,Lead screw support
+NEMA17 42HD1016-01,Part,4,0,0,,TaoBao,Already own,"Slim 25mm motors(weak,only for  testing)"
+NEMA17 40mm,Part,5,,,,TaoBao,Grant,5 total: Z + X + B + Y + C
+5mm rod 50mm,Part,1,,,,TaoBao,Grant,Core XB - B axis
+5mm flange coupling,Part,1,,,,TaoBao,Grant,Core XB
+5x11x6 collet,Part,1,,,,TaoBao,Grant,Core XB - B axis
+MR85ZZ bearing (5x8x2.5),Part,4,,,,TaoBao,Grant,Core XB - B axis
+GT2 belt loop 6mm 700mm+,Part,1,8,8,,TaoBao,Grant,Core XB
+GT2 idler toothless,Part,4,1.5,6,,TaoBao,Grant,Core XB
+GT2 idler 16T with teeth,Part,2,1.5,3,,TaoBao,Grant,Core XB
+GT2 pulley 16T (already have),Part,2,0,0,,TaoBao,Own,Core XB motors
+GT2 pulley 40T,Part,1,8,8,,TaoBao,Grant,Core XB - B axis
+GT2 belt 6mm open roll 3m,Part,1,12,12,,TaoBao,Grant,Core YC - 2 belt runs to the bed
+GT2 pulley 16T,Part,2,2,4,,TaoBao,Grant,Core YC motors
+GT2 idler toothless,Part,4,1.5,6,,TaoBao,Grant,Core YC
+6810ZZ bearing,Part,2,8,16,,TaoBao,Grant,C axis - bed rotation
+Build plate D250mm,Part,1,30,30,,TaoBao,Grant,MDF or PCB plate
+Big Dipper board,Part,1,250,250,,TaoBao,Grant,Check it has 5 stepper drivers
+24V 10A power supply,Part,1,,,,TaoBao,Grant,
+5.5x2.5 DC plug,Part,1,2,2,,TaoBao,Grant,
+BIQU H2 V2S extruder,Part,1,160,160,,TaoBao,Grant,
+Long nozzle,Part,1,10,10,,TaoBao,Grant,
+Aquarium pump,Part,1,15,15,,TaoBao,Grant,Part cooling air
+Endstop switch,Part,5,,,,TaoBao,Grant,X Y Z B C homing
+Stepper cable 1m,Part,5,4,20,,TaoBao,Grant,
+Cable drag chain,Part,1,15,15,,TaoBao,Grant,
+Wiring misc (power/heater),Part,1,20,20,,TaoBao,Grant,
+M3 screw set,Part,1,15,15,,TaoBao,Grant,Need some 40mm screws
+M4 screw set,Part,1,15,15,,TaoBao,Grant,
+M5 screw set,Part,1,15,15,,TaoBao,Grant,For 2020 profiles and Core XB bolts (7+)
+M3 square nut,Part,50,0.12,6,,TaoBao,Grant,
+Shipping,Shipping,1,40,40,,TaoBao,Grant,Estimate
+Total,,,,1141.2,,,,
